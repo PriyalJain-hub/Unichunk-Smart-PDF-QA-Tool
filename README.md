@@ -1,4 +1,4 @@
-# UniChunk Q\&A Tool
+# UniChunk Smart PDF Q\&A Tool
 
 UniChunk makes it simple to chat with your PDFs, summarize insights, and upload new files for instant querying. Follow this guide to get set up and running locally.
 
