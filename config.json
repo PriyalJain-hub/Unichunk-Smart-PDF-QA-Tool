@@ -1,0 +1,16 @@
+{
+    "pdf_paths": [
+      "data/2024 Report on the State of Cybersecurity in the Union.pdf",
+      "data/Medical Device Coordination Group Document.pdf",
+      "data/shifting-gears-2025-automotive-cybersecurity-report.pdf",
+      "data/Tech_Trends_Report.pdf"
+
+    ],
+    "data_dir":"./data",
+    "output_dir": "./ingestion_output",
+    "new_pdfs_dir": "./new_pdfs_dir",
+    "parse_output_dir": "./parse",
+    "model": "gpt-4o-mini",
+    "CHUNK_TOKEN_LIMIT": 500,
+    "OVERLAP_SENTENCES": 2
+  }
